@@ -13,7 +13,7 @@ public class StudentPlayer extends TablutPlayer {
      * associate you with your agent. The constructor should do nothing else.
      */
     public StudentPlayer() {
-        super("xxxxxxxxx");
+        super("260744353");
     }
 
     /**
@@ -21,6 +21,7 @@ public class StudentPlayer extends TablutPlayer {
      * object contains the current state of the game, which your agent must use to
      * make decisions.
      */
+    @Override
     public Move chooseMove(TablutBoardState boardState) {
         // You probably will make separate functions in MyTools.
         // For example, maybe you'll need to load some pre-processed best opening
