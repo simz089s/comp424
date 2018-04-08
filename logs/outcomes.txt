@@ -184,3 +184,8 @@
 26,260744353,RandomPlayer,GAMEOVER DRAW,NOBODY,50,game00026.log,
 27,RandomPlayer,260744353,0,RandomPlayer,0,game00027.log,TIMEOUT
 28,RandomPlayer,260744353,GAMEOVER DRAW,NOBODY,50,game00028.log,
+29,GreedyPlayer,260744353,0,GreedyPlayer,6,game00029.log,
+30,260744353,GreedyPlayer,1,GreedyPlayer,1,game00030.log,TIMEOUT
+31,GreedyPlayer,260744353,0,GreedyPlayer,13,game00031.log,
+32,260744353,GreedyPlayer,1,GreedyPlayer,11,game00032.log,
+33,GreedyPlayer,260744353,0,GreedyPlayer,7,game00033.log,
